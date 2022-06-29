@@ -1,0 +1,141 @@
+.clear{
+    color: white;
+    font-size: small;
+    font-weight: 400;
+    padding: 0px;
+}
+.logo{
+    background-image: url('img/logo.png');
+    height: 15vh;
+    background-repeat: no-repeat;
+}
+.color1{
+    background-color:#6610f2;
+    color: white;
+    padding: 0;
+}
+.link1{
+    color: black;
+    font-weight: 600;
+}
+.btn1{
+    background-color: black;
+}
+.slider1{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/slider-b.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+   
+}
+.slider2{
+
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/independence.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.slider3{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/lab2.png');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.con1{
+    display:block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
+    color: white;
+    font-family: inherit;
+    height: 100vh;
+    padding: 150px;
+
+}
+.con2{
+    display: block;
+    align-items: initial;
+    margin-bottom: 100px;
+    color: white;
+    font-family: inherit;
+    height: 100vh;
+    padding: 100px;
+}
+.con3{
+    display: block;
+    align-items: initial;
+    margin-bottom: 100px;
+    color: white;
+    font-family: inherit;
+    height: 100vh;
+    padding: 100px;
+}
+.slider-txt{
+    color: aqua;
+}
+.ha{
+    font-weight: 700;
+}
+.hb{
+    font-weight: 500;
+}
+.btna{
+    background-color:blue;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: small;
+}
+.btnb{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: small;
+}
+.con-a{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+.con-a-txt{
+    font-weight: 600;
+}
+.line1{
+    background-color: black;
+    height: 2px;
+    width:100px;
+    margin-left: 45%;
+
+}
+.line2{
+    background-color: black;
+    height:2px;
+    width: 100px;
+    margin-left: 43%;
+}
+.game1{
+    background-image: url('img/games.png');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.game2{
+    background-image: url('img/lib.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.game3{
+    background-image: url('img/lab2.png');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
